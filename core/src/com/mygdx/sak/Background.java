@@ -20,7 +20,7 @@ public class Background extends Actor{
 	//private TextureRegion neige[][];
 
 	public Background(float w,float h){
-
+//
 		//neige = TextureRegion.split(snow,snow.getWidth()/2, snow.getHeight()/2);
 		snow = new TextureRegion[2];
 		snow[0]= com.mygdx.sak.SaveTheAuk.variable.getIceberg0();
