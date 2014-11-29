@@ -1,0 +1,47 @@
+
+live.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anim4
+  rotate: false
+  xy: 1, 103
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+anim3
+  rotate: false
+  xy: 1, 1
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+anim1
+  rotate: false
+  xy: 303, 103
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+anim5
+  rotate: false
+  xy: 303, 1
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+anim2
+  rotate: false
+  xy: 605, 103
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+anim0
+  rotate: false
+  xy: 605, 1
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1

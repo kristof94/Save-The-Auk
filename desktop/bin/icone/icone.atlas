@@ -1,0 +1,26 @@
+
+icone.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tw2
+  rotate: false
+  xy: 1, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: -1
+leader
+  rotate: false
+  xy: 304, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+fb2
+  rotate: false
+  xy: 606, 1
+  size: 299, 300
+  orig: 299, 300
+  offset: 0, 0
+  index: -1
