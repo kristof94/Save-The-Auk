@@ -24,7 +24,7 @@ public class IOSLauncher extends IOSApplication.Delegate implements IActivityReq
 
 	@Override
 	public void showAds(boolean show) {
-		
+		//dadadasdadads
 		
 	}
 
